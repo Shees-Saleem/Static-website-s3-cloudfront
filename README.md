@@ -21,7 +21,7 @@ The website is hosted on **AWS S3** and delivered globally using **AWS CloudFron
 
 ## Implementation Steps
 1. Created an AWS S3 bucket
-2. Uploaded HTML and CSS files to S3
+2. Uploaded HTML files to S3
 3. Enabled static website hosting in AWS S3
 4. Configured AWS S3 bucket policy for public access
 5. Created AWS CloudFront distribution
